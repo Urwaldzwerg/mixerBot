@@ -40,8 +40,8 @@ If you look into config_example.py you will see that you will have to add your o
 which you can get by filling in some information about your application [here](https://mixer.com/lab/oauth)
 
 - CHANNELID
-which you can get by visiting this link: https://mixer.com/api/v1/channels/<username>?fields=id
-replacing <username> with your mixer username
+which you can get by visiting this link: [](https://mixer.com/api/v1/channels/<username>?fields=id)
+by replacing <username> with your mixer username
 
 - NONCE
 which, as far as I understand it, is a unique identifier for identifying the hello event the Constellation API sends when you first connect.
