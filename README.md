@@ -41,9 +41,7 @@ which you can get by filling in some information about your application [here](h
 
 - CHANNELID
 which you can get by visiting this link:
-'''
 https://mixer.com/api/v1/channels/<username>?fields=id
-'''
 by replacing <username> with your mixer username
 
 - NONCE
