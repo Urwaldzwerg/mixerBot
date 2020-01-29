@@ -1,6 +1,6 @@
 # What is this?
 
-This is a **prototype** of a notification bot for Microsofts streaming platform called Mixer, using it's [Constellation API] (https://dev.mixer.com/reference/constellation/introduction).
+This is a **prototype** of a notification bot for Microsofts streaming platform called Mixer, using it's [Constellation API](https://dev.mixer.com/reference/constellation/introduction).
 
 ## What can it do?
 
