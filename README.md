@@ -31,3 +31,19 @@ Progress from my side is going to be slow as I decided this to be one of my firs
 
 ### Libraries you may have to install
 - [lomond](https://pypi.org/project/lomond/)
+
+### Adding your credentials
+
+If you look into config_example.py you will see that you will have to add your own credentials, those namely being the:
+
+- CLIENTID
+which you can get by filling in some information about your application [here](https://mixer.com/lab/oauth)
+
+- CHANNELID
+which you can get by visiting this link: https://mixer.com/api/v1/channels/<username>?fields=id
+replacing <username> with your mixer username
+
+- NONCE
+which, as far as I understand it, is a unique identifier for identifying the hello event the Constellation API sends when you first connect.
+
+you can read more about how to connect to Mixers APIs [here](https://dev.mixer.com/reference/chat/connection).
