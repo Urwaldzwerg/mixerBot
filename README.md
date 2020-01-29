@@ -12,7 +12,7 @@ The end goal of this bot is to make some flashy light animations using RGB LED s
 
 ## Why would you want something like this?
 
-Well - streaming is all about audience interaction. Having the streamers environment react to what the viewers are doing is, in my opinion, a very nice to have passive level of interaction.
+Well - streaming is all about audience interaction. Having the streamers environment react to what the viewers are doing is, in my opinion, a very nice way of having a passive level of interaction.
 
 ## Great! What's in it for me?
 
